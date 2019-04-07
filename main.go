@@ -4,7 +4,6 @@ import (
 	"log"
 	"net/http"
 	"os"
-    "github.com/gorilla/websocket"
     "fmt"
     "net/http"
     "sync"
